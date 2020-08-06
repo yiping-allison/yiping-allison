@@ -19,4 +19,3 @@ I am passionate about data and software engineering methods! :chart_with_upwards
 :musical_keyboard:  I grew up playing Classical piano - I love Chopin and Debussy
 
 :coffee:            I am a fan of artisan coffee
-
