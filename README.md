@@ -1,10 +1,10 @@
-<h1 align="center"> Yiping (Allison) Su </h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="170" height="130">
-  <img src="https://media.giphy.com/media/Rmu0SUVH8l1du/giphy.gif" width="170" height="130">
-  <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="170" height="130">
+  <img src="code-crawl.gif" width="170" height="140">
+  <img src="coffee-sparkle.gif" width="170" height="140">
+  <img src="data.gif" width="170" height="140">
 </p>
+
+<h1 align="center"> Yiping (Allison) Su </h1>
 
 Hello! I'm Yiping, but I usually go by Allison. I am a recent graduate from [UC Davis](https://www.ucdavis.edu/)! 
 I am passionate about data and software engineering methods! :chart_with_upwards_trend:
