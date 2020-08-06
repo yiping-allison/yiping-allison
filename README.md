@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/yiping-allison/yiping-allison/blob/master/code-crawl.gif" width="170" height="140">
-  <img src="https://github.com/yiping-allison/yiping-allison/blob/master/coffee-sparkle.gif" width="170" height="140">
-  <img src="https://github.com/yiping-allison/yiping-allison/blob/master/data.gif" width="170" height="140">
+  <img src="https://github.com/yiping-allison/yiping-allison/blob/master/code-crawl.gif" width="164" height="140">
+  <img src="https://github.com/yiping-allison/yiping-allison/blob/master/coffee-sparkle.gif" width="164" height="140">
+  <img src="https://github.com/yiping-allison/yiping-allison/blob/master/data.gif" width="164" height="140">
 </p>
 
 <h1 align="center"> Yiping (Allison) Su </h1>
