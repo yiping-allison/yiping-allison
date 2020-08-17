@@ -12,10 +12,10 @@ I am passionate about data and software engineering methods! :chart_with_upwards
 ## :coffee: Want To Connect?
 
 * Personal Site: https://www.yipingsu.com/
-* GitHub
+* LinkedIn: https://www.linkedin.com/in/yipingsu/
 
 ## :scroll: Fun Facts
 
-:musical_keyboard:  I grew up playing Classical piano - I love Chopin and Debussy
+:musical_keyboard:  I grew up playing Classical piano, but now I mostly play arrangements from [Jarrod Radnich](http://jarrodradnich.com/)
 
 :coffee:            I am a fan of artisan coffee
