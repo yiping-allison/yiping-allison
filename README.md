@@ -6,8 +6,9 @@
 
 <h1 align="center"> Yiping (Allison) Su </h1>
 
-Hello! I'm Yiping, but I usually go by Allison. I graduated from [UC Davis](https://www.ucdavis.edu/) in 2020.
-I'm currently working at Charles Schwab as a software developer.
+Hello! I'm Yiping, but I usually go by Allison.
+
+I am an engineering professional working at _Charles Schwab_ with a background in economic analysis and software engineering. I use both experiences to design and develop data-minded applications that support machine learning and artificial intelligence initiatives.
 
 I am passionate about data and software engineering methods! :chart_with_upwards_trend:
 
