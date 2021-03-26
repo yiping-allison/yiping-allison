@@ -8,9 +8,9 @@
 
 Hello! I'm Yiping, but I usually go by Allison.
 
-I am an engineering professional working at _Charles Schwab_ with a background in economic analysis and software engineering. I use both experiences to design and develop data-minded applications that support machine learning and artificial intelligence initiatives.
-
 I am passionate about data and software engineering methods! :chart_with_upwards_trend:
+
+I am (also) an engineering professional working at _Charles Schwab_ with a background in economic analysis and software engineering. I use both experiences to design and develop data-minded applications that support machine learning and artificial intelligence initiatives.
 
 My language of choice is Go, but I also commonly work in Python. 
 
