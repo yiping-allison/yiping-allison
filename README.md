@@ -24,3 +24,8 @@ My language of choice is Go, but I also commonly work in Python.
 * :musical_keyboard:  I grew up playing Classical piano, but now I mostly play arrangements from [Jarrod Radnich](http://jarrodradnich.com/)
 
 * :coffee:            I am a fan of artisan coffee
+
+## :computer: Fun Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiping-allison&theme=calm&layout=compact)
+
